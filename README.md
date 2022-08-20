@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nitinram29
-- 👀 I’m interested in Java SE, JavaScript and C++
-- 🌱 I’m currently learning J2EE, jQuery and some other stuffs...
+- 👀 Skilled in Java, MySQL, Data Structure and Algorithm
 - 📫 How to reach me? Mail on nitinram2901@gmail.com
 
 <!---
