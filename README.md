@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitinram29
-- 👀 Skilled in Java, MySQL, Data Structure and Algorithm
+- 👀 Skilled in Java, SpringBoot, Data Structure and Algorithm
 - 📫 How to reach me? Mail on nitinram2901@gmail.com
 
 <!---
