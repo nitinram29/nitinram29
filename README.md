@@ -8,26 +8,28 @@ Welcome to my digital playground! 🌍 As a passionate Java Full-Stack Developer
 
 🚀 What I Do:
 
+**At Myntra**: <br/>
+```Opimising search```
+
 **Drone Mastermind**: <br/>
-```Led the development of a Drone Area Scanning and Waypointing System using the Mission Builder Engine, boosting operational efficiency.```
+```Led the development of a Drone Area Scanning and Waypointing System using the Mission Builder Engine, boosting operational efficiency. 🚁```
 
 **Toll-Free Highways**: <br/>
-```Managed a team of 6 developers to build a map-matching algorithm, automating toll booth eliminations 🚗💨.```
+```Managed a team of 6 developers to build a map-matching algorithm, automating toll booth eliminations. 🚗💨```
 
 **Real-Time Analytics Pro**: <br/>
-```Delivered real-time user analytics and alerts, keeping everything in check 📈⚡.```
+```Delivered real-time user analytics and alerts, keeping everything in check. 📈⚡```
 
 **Tracking Everything**: <br/>
-```Integrated vehicle tracking, so nothing gets lost 🔍.```
+```Integrated vehicle tracking, so nothing gets lost. 🔍```
 
 **Debugging Ninja**: <br/>
-```Built an Avro utility for streamlining event debugging, making life easier for developers everywhere 🛠️.```
+```Built an Avro utility for streamlining event debugging, making life easier for developers everywhere. 🛠️```
 
 **Security Buff**: <br/>
-```Implemented JWT and shared key security, boosting system compliance by 40% 🔒.```
+```Implemented JWT and shared key security, boosting system compliance by 40%. 🔒```
 
 📊 **Big Data + Kafka + Fast UIs = Awesome**:
-
 ```
 Developed real-time game and team-level analytics 🏀⚽ as part of the Big Data team.
 
@@ -44,22 +46,21 @@ Created a framework for multithreaded and networking-based projects, improving d
 Mastered multithreading, Reflection API, and Annotations, reducing dev time by 25% 🧑‍💻📚.
 ```
 
-
 <h3 align="left">Languages and Tools:</h3>
 <div>
-  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/> &nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
-  <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/> &nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
+  <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
 </div>
 
 
